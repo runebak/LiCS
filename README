@@ -1,0 +1,13 @@
+This repository contains algorithms I incounter as a 
+teaching assitent on "Logic in Computer Science" at DIKU.
+We are following the book "Logic in Computer Science" by Michael Huth and Mark Ryan,
+so the algorithms are likely from there.
+
+This is quick 'n dirty implementation for educational perposes, not meant to be used seriously. 
+
+All files a literal haskell.
+That means you can convert them to nice readable documents (pdf,html,etc..)
+and also load them up in GHC using your favorite editor and start playing with them.
+
+Happy hacking!
+
